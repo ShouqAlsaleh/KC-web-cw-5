@@ -2,18 +2,183 @@
 width: 460px;
 display: flex;
 flex-wrap: wrap;
+
 }
 
-.box {
+.box1 {
 width: 150px;
 height: 150px;
 background-color: teal;
 margin: 1px;
 display: flex;
 box-shadow: 10px 10px 5px ;
+text-align: center;
+}
+
+.X {
+text-align: center;  
+  color: aliceblue;
+font-size: 6pc;
+width: 100vh;
+margin: 15px;
+opacity: 0;
 }
 
 
+
+.box2 {
+    width: 150px;
+    height: 150px;
+    background-color: teal;
+    margin: 1px;
+    display: flex;
+    box-shadow: 10px 10px 5px ;
+    }
+
+    .O {
+        text-align: center;  
+          color: aliceblue;
+        font-size: 6pc;
+        width: 100vh;
+        margin: 15px;
+        opacity: 0;
+        }
+    .box3 {
+        width: 150px;
+        height: 150px;
+        background-color: teal;
+        margin: 1px;
+        display: flex;
+        box-shadow: 10px 10px 5px ;
+        }
+
+        .X2 {
+            text-align: center;  
+              color: aliceblue;
+            font-size: 6pc;
+            width: 100vh;
+            margin: 15px;
+            opacity: 0;
+            }
+
+        
+
+        .box4 {
+            width: 150px;
+            height: 150px;
+            background-color: teal;
+            margin: 1px;
+            display: flex;
+            box-shadow: 10px 10px 5px ;
+            }
+
+            .O2 {
+                text-align: center;  
+                  color: aliceblue;
+                font-size: 6pc;
+                width: 100vh;
+                margin: 15px;
+                opacity: 0 ;
+                }
+
+            .box5 {
+                width: 150px;
+                height: 150px;
+                background-color: teal;
+                margin: 1px;
+                display: flex;
+                box-shadow: 10px 10px 5px ;
+                }
+                
+                .O2 {
+                  text-align: center;  
+                  color: aliceblue;
+                  font-size: 6PC;
+                  margin: 15px
+                  OPACITY:0;
+                }
+                .box6 {
+                    width: 150px;
+                    height: 150px;
+                    background-color: teal;
+                    margin: 1px;
+                    display: flex;
+                    box-shadow: 10px 10px 5px ;
+                    }
+
+                .X3 {
+                            font-size: 6pc;
+                            width: 100vh;
+                            margin: 15px;
+                            opacity: 0;
+                            }
+
+                            .X4 {
+font-size: 6pc;
+width: 100vh;
+margin: 15px;
+opacity: 0;
+                            }
+
+
+                    
+                    .box7 {
+                        width: 150px;
+                        height: 150px;
+                        background-color: teal;
+                        margin: 1px;
+                        display: flex;
+                        box-shadow: 10px 10px 5px ;
+                        }
+                        
+                        .O4 {
+                            text-align: center;  
+                              color: aliceblue;
+                            font-size: 6pc;
+                            width: 100vh;
+                            margin: 15px;
+                            opacity: 0;
+                            }
+            
+                        .box8 {
+                            width: 150px;
+                            height: 150px;
+                            background-color: teal;
+                            margin: 1px;
+                            display: flex;
+                            box-shadow: 10px 10px 5px ;
+                            }
+                            
+                           .O5 {
+                            text-align:center;  
+                              color: aliceblue;
+                            font-size: 6pc;
+                            width: 100vh;
+                            margin: 15px;
+                            opacity: 0;
+                            }
+                
+
+                            .box9 {
+                                width: 150px;
+                                height: 150px;
+                                background-color: teal;
+                                margin: 1px;
+                                display: flex;
+                                box-shadow: 10px 10px 5px ;
+                                }
+                                
+                                .X5 {
+                                    text-align: center;  
+                                      color: aliceblue;
+                                    font-size: 6pc;
+                                    width: 100vh;
+                                    margin: 15px;
+                                    opacity: 0;
+                                    }
+
+                    
+         
 body {
 display: flex;
 justify-content: center;
@@ -22,12 +187,157 @@ flex-direction: column;
 background-color: #6D8A96;
 }
 
-.box:hover:hover {
-  
+.box1:hover:hover {
+
 background-color: antiquewhite;
+OPACITY:0.5;
 }
+
+.box2:hover:hover {
+
+    background-color: antiquewhite;
+    opacity: 0.5;
+    }
+
+    .box3:hover:hover {
+
+        background-color: antiquewhite;
+        opacity: 0.5;
+        }
+
+        .box4:hover:hover {
+
+            background-color: antiquewhite;
+            opacity: 0.5;
+            }
+
+            .box5:hover:hover {
+
+                background-color: antiquewhite;
+                opacity: 0.5;
+                }
+
+                .box6:hover:hover {
+
+                    background-color: antiquewhite;
+                    opacity: 0.5;
+                    }
+
+                    .box7:hover:hover {
+
+                        background-color: antiquewhite;
+                        opacity: 0.5;
+
+                        }
+.O3 {
+    opacity:0 ;
+    color: aliceblue;
+    font-size: 6PC;
+    text-align: center;
+    width: 100vh;
+    margin: 15px;
+}
+
+.O2 {
+    opacity: 0;
+    color: aliceblue;
+    font-size: 6pc;
+    text-align: center;
+    width: 100vh;
+    margin: 15px;
+}
+
+.O4 {
+opacity: 0;
+font-size: 6pc;
+text-align: center;
+margin: 15px;
+width: 100vh;
+color: aliceblue;
+}
+
+                        .box8:hover:hover {
+
+                            background-color: antiquewhite;
+                            opacity: 0.5;
+                            }
+
+                            .box9:hover:hover {
+
+                                background-color: antiquewhite;
+                                opacity: 0.5;
+                                }
+
+
+
+
+
 
 h1 { 
     font-family: 'Indie Flower', cursive;
 text-align: center;
 }
+
+.X5:hover:hover {
+    opacity: 100;
+    color: black;
+    text-shadow: 5PX 5PX 10PX;
+}
+
+.X3:hover:hover {
+    opacity: 100;
+    color: black;
+    text-shadow: 5PX 5PX 10PX;
+}
+
+.X:hover:hover {
+    opacity: 100;
+    color: black;
+    text-shadow: 5PX 5PX 10PX;
+}
+
+.O:hover:hover {
+    opacity: 100;
+    color: black;
+    text-shadow: 5PX 5PX 10PX;
+}
+
+.O2:hover:hover:hover:hover {
+    opacity: 100;
+    color: black;
+    text-shadow: 5PX 5PX 10PX;
+}
+
+.O3:hover:hover {
+    opacity: 100;
+    color: black;
+    text-shadow: 5PX 5PX 10PX;
+}
+
+.O4:hover:hover:hover:hover {
+    opacity: 100;
+    color: black;
+    text-shadow: 5PX 5PX 10PX;
+}
+
+.X2:hover:hover {
+    opacity: 100;
+    color: black;
+    text-shadow: 5PX 5PX 10PX;
+}
+
+
+.X4:hover:hover {
+    opacity: 100;
+    color: black;
+    text-shadow: 5PX 5PX 10PX;
+}
+
+.O2 {
+    text-align: center;  
+      color: aliceblue;
+    font-size: 6pc;
+    width: 100vh;
+    margin: 15px;
+    opacity: 0;
+    }
